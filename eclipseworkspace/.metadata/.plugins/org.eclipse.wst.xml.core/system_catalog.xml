@@ -34,5 +34,5 @@
   <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="jar:file:/Users/avinash.sridhar/Downloads/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.700.v201304171716.jar!/xsd/ws-securitypolicy.xsd"/>
   <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/Users/avinash.sridhar/Downloads/eclipse/plugins/org.eclipse.xsd_2.9.0.v20130610-0406.jar!/cache/www.w3.org/2001/xml.xsd"/>
   <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/Users/avinash.sridhar/Downloads/eclipse/plugins/org.eclipse.xsd_2.9.0.v20130610-0406.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
-  <uri id="com.salesforce.ide.ui.xmlcatalog.metadata" name="http://soap.sforce.com/2006/04/metadata" uri="jar:file:/Users/avinash.sridhar/Downloads/eclipse/plugins/com.salesforce.ide.api_31.0.0.201406301722.jar!/schema/metadata.xsd"/>
+  <uri id="com.salesforce.ide.ui.xmlcatalog.metadata" name="http://soap.sforce.com/2006/04/metadata" uri="jar:file:/Users/avinash.sridhar/Downloads/eclipse/plugins/com.salesforce.ide.api_31.0.0.201409250945.jar!/schema/metadata.xsd"/>
 </catalog>

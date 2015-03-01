@@ -1,3 +1,5 @@
+ExecuteAnonymousApex_code=Debug
+ExecuteAnonymousCallout=Debug
 eclipse.preferences.version=1
 endpointApiVersion=31.0
 endpointEnvironment=Production/Developer Edition
